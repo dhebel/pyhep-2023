@@ -12,3 +12,7 @@ Using the framework, we generated simulated data of muon and antimuon particles 
 The project is hosted on github.
 
 https://github.com/dhebel/babycal
+
+## Acknowledgements
+Thanks to Maurizio Ungaro at Jefferson Lab in Virginia, USA, Esteban Molina and Bruno Benkel at CCTVal in Valparaíso for supporting this project.
+This work was partially supported by FONDECYT Postdoc project #3190740 and ANID PIA/APOYO AFB180002.
