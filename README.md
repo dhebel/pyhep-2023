@@ -1,6 +1,6 @@
 # PyHep 2023 - A Framework for Data Simulation and Analysis of the BabyCal Electromagnetic Calorimeter (Notebook Talk)
 
-[[!Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/dhebel/pyhep-2023/HEAD)
+[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/dhebel/pyhep-2023/HEAD)
 
 This repository contains the material for the [PyHEP 2023](https://indico.cern.ch/event/1252095/timetable/#1-a-framework-for-data-simulat) workshop. The abstract is given below.
 
