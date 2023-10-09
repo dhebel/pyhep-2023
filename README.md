@@ -8,4 +8,5 @@ This research introduces an automated system capable of efficiently simulating, 
 Using the framework, we generated simulated data of muon and antimuon particles and implemented CNNs and autoencoders to analyze the data. The experiment results showed that autoencoders were able to reconstruct muons, achieving accuracies of up to 97%. This work is a starting point that serves as a helpful data analysis tool, aiding researchers in their investigations.
 
 The project is hosted on github.
+
 https://github.com/dhebel/babycal
