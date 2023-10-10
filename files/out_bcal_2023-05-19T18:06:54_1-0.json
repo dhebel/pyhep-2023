@@ -1,0 +1,132 @@
+{
+    "bcal_2023-05-19T18:06:54_r15c15.txt event 1": {
+        "gruid hits - side 1": {
+            "0.0": {
+                "1,10": {
+                    "# of hits": 13,
+                    "energy deposited": 5.717003726859e-05
+                },
+                "6,10": {
+                    "# of hits": 89,
+                    "energy deposited": 0.0004658180885101631
+                },
+                "6,12": {
+                    "# of hits": 4,
+                    "energy deposited": 1.999038123287e-05
+                },
+                "6,13": {
+                    "# of hits": 8,
+                    "energy deposited": 3.5929250731176e-05
+                },
+                "6,15": {
+                    "# of hits": 10,
+                    "energy deposited": 6.1416880733461e-05
+                },
+                "6,16": {
+                    "# of hits": 4,
+                    "energy deposited": 2.622818715047e-05
+                },
+                "6,18": {
+                    "# of hits": 4,
+                    "energy deposited": 2.644499652172e-05
+                },
+                "6,19": {
+                    "# of hits": 2,
+                    "energy deposited": 1.255353429849e-05
+                },
+                "6,7": {
+                    "# of hits": 1,
+                    "energy deposited": 1.85042137271e-06
+                },
+                "6,8": {
+                    "# of hits": 11,
+                    "energy deposited": 6.857948373599e-05
+                },
+                "6,9": {
+                    "# of hits": 14,
+                    "energy deposited": 7.7621991342407e-05
+                },
+                "7,8": {
+                    "# of hits": 14,
+                    "energy deposited": 6.3927310376039e-05
+                },
+                "7,9": {
+                    "# of hits": 16,
+                    "energy deposited": 8.7301506040379e-05
+                }
+            }
+        },
+        "gruid hits - side 2": {
+            "0.0": {
+                "6,10": {
+                    "# of hits": 9,
+                    "energy deposited": 5.9558460604221005e-05
+                },
+                "6,12": {
+                    "# of hits": 6,
+                    "energy deposited": 3.3285890839944e-05
+                },
+                "6,13": {
+                    "# of hits": 1,
+                    "energy deposited": 5.1734646374e-06
+                },
+                "6,15": {
+                    "# of hits": 4,
+                    "energy deposited": 1.3769375199328e-05
+                },
+                "6,16": {
+                    "# of hits": 3,
+                    "energy deposited": 1.089737483336e-05
+                },
+                "6,18": {
+                    "# of hits": 9,
+                    "energy deposited": 6.1674407829605e-05
+                },
+                "6,5": {
+                    "# of hits": 3,
+                    "energy deposited": 2.2631498517409997e-05
+                },
+                "6,6": {
+                    "# of hits": 11,
+                    "energy deposited": 7.287164433314e-05
+                },
+                "6,7": {
+                    "# of hits": 2,
+                    "energy deposited": 1.153691807643e-05
+                },
+                "6,8": {
+                    "# of hits": 1,
+                    "energy deposited": 5.65813584295e-06
+                },
+                "6,9": {
+                    "# of hits": 1,
+                    "energy deposited": 4.88822091532e-06
+                },
+                "7,5": {
+                    "# of hits": 4,
+                    "energy deposited": 2.0980903928907e-05
+                },
+                "7,6": {
+                    "# of hits": 6,
+                    "energy deposited": 2.3256247519584e-05
+                },
+                "8,5": {
+                    "# of hits": 1,
+                    "energy deposited": 9.05050358661e-06
+                },
+                "8,6": {
+                    "# of hits": 12,
+                    "energy deposited": 4.917145943341999e-05
+                }
+            }
+        },
+        "gruid metadata": {
+            "# of columns (x)": 15,
+            "# of rows (y)": 21,
+            "dt": 5.0,
+            "dx": 0.1,
+            "dy": 0.1,
+            "pid": 13
+        }
+    }
+}
